@@ -18,12 +18,12 @@ Overview This Python-based Expense Tracker application is designed to help you e
 - CSV: For storing and retrieving expense data.
 
 # How to Run
-- Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
-- Ensure you have Python installed.
+2. Ensure you have Python installed.
 
-- Run the expense_tracker.py script using the command:
+3. Run the expense_tracker.py script using the command:
 
         python expense_tracker.py
 
-Follow the prompts to enter your expenses and view the summary.
+4. Follow the prompts to enter your expenses and view the summary.
